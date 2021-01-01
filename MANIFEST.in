@@ -1,1 +1,1 @@
-include riddikulus_connector/*.ice
+include ucla-cs118-connector/*.ice
